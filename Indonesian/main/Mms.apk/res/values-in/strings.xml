@@ -134,7 +134,7 @@
   <string name="found_old_messages">Jumlah dari: %1$s ditemukan pada akun telepon lama. Apakah Anda ingin upload ke akun Anda sekarang dari: %2$s?</string>
   <string name="found_old_messages_title">Unggah pesan</string>
   <string name="found_wild_messages">Menemukan %s pesan dari SIM Card lainnya via MiCloud, Apakah anda mau mengunduh semua?</string>
-  <string name="found_wild_messages_title">Unduh Pesan</string>!!!
+  <string name="found_wild_messages_title">Unduh Pesan</string>
   <string name="from_label">"Dari: "</string>
   <string name="group_message">Kelompok Pesan</string>
   <string name="group_message_failed_title">Gagal mengirimkan ke %d kontak, coba lagi?</string>
